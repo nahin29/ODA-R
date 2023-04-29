@@ -1,0 +1,11 @@
+git commands
+
+Here are some additional details about each command:
+
+The git add command stages the changes to the file for commit. This means that the changes will be included in the next commit.
+The git commit command commits the changes to your local repository. This creates a new commit object that contains the changes to the file.
+The git push command pushes the changes to your remote repository. This updates the remote repository with the changes that you have made locally.
+
+git add my_project.py
+git commit -m "Added new line of code"
+git push
